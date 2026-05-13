@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-website-blue)](https://gabrielfruet.github.io/portfolio/)
 [![GitHub followers](https://img.shields.io/github/followers/gabrielfruet?label=Follow&style=social)](https://github.com/gabrielfruet)
 
-Computer Vision Engineer @ dtLabs — I build and research models for self-supervised learning, multi-modal perception, and LiDAR-centric systems.
+Computer Vision Engineer @ Lighlty — I build and research models for self-supervised learning, multi-modal perception, and LiDAR-centric systems.
 
 **Interests**
 - Self-supervised learning
@@ -13,7 +13,7 @@ Computer Vision Engineer @ dtLabs — I build and research models for self-super
 - Applied computer vision research
 
 **Open source**
-- Contributing to: [Lightly](https://github.com/lightly-ai/lightly), [PyTorch Ignite](https://github.com/pytorch/ignite)
+- Contributing to: [Lightly](https://github.com/lightly-ai/lightly), [LightlyTrain](https://github.com/lightly-ai/lightly-train), [PyTorch Ignite](https://github.com/pytorch/ignite), [Torchvision](https://github.com/pytorch/vision)
 
 **Contact & Links**
 - Portfolio: https://gabrielfruet.github.io/portfolio/
